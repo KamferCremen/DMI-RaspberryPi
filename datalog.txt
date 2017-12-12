@@ -1,0 +1,8 @@
+
+Time : 2017-11-28 
+Status : 200 
+Data : {"Temperature": "29.20"} 
+
+Time : 2017-11-28 
+Status : 200 
+Data : {"Temperature": "29.40"} 

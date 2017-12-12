@@ -1,0 +1,378 @@
+
+Time : 2017-11-28 
+Temp : 28.5 
+Error : name 'request' is not defined 
+
+Time : 2017-11-28 
+Temp : 29.2000007629 
+Error : name 'request' is not defined 
+
+Time : 2017-11-29 
+Temp : 22.8999996185 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.3999996185 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.5 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.5 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.5 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.5 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.5 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.6000003815 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7999992371 
+Error : cannot concatenate 'str' and 'float' objects 
+
+Live Error 
+Time : 2017-11-29 
+Temp : 23.7000007629 
+Error : cannot concatenate 'str' and 'float' objects 
